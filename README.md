@@ -10,5 +10,6 @@ Tasks:
 - model saved and upload
 - accuracy calculation
 - decision tree .dot exportation
-  
+
+![](decisiontree.JPG)
   
