@@ -1,5 +1,5 @@
 # ML_Classification_Music_Recommender
-## Simple model of classification using decision tree algorithm, using Jupyter notebook.
+## Simple model of classification with decision tree algorithm, using Jupyter notebook.
 
 Tasks:
 
